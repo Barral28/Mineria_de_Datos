@@ -1,2 +1,2 @@
-# Mineria_de_Datos
+# Mi primer README
 Repositorio de laboratorios
